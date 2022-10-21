@@ -10,5 +10,17 @@
   },
   "devDependencies": {
     "vite": "^3.1.0"
-  }
+  },
+  "description": "<h1 align=\"center\"> Explorer Lab #01 </h1>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketseat-education/explorer-lab-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocketseat-education/explorer-lab-01/issues"
+  },
+  "homepage": "https://github.com/rocketseat-education/explorer-lab-01#readme"
 }

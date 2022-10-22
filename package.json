@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/rocketseat-education/explorer-lab-01/issues"
   },
-  "homepage": "https://github.com/rocketseat-education/explorer-lab-01#readme"
+  "homepage": "https://github.com/rocketseat-education/explorer-lab-01#readme",
+  "dependencies": {
+    "imask": "^6.4.3"
+  }
 }

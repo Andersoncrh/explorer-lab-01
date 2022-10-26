@@ -14,13 +14,13 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
-<br>
+<br></br>
 
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 <a href="https://explorer-lab-01-andersoncrh.vercel.app">Clique aqui para acessar</a>
-<br><br>
+<br></br>
 
 ## 🚀 Tecnologias
 
@@ -44,6 +44,10 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
----
 
+## ✉ Contato
+andersoncrh@gmail.com
+---
+---
+<br></br>
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)

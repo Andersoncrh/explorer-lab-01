@@ -19,7 +19,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
-[Clique aqui para acessar](https://explorer-lab-01-andersoncrh.vercel.app)
+<a href="https://explorer-lab-01-andersoncrh.vercel.app">Clique aqui para acessar</a>
 <br><br>
 
 ## 🚀 Tecnologias

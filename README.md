@@ -8,7 +8,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contato">Contato</a>
 </p>
 
 <p align="center">
@@ -48,6 +49,11 @@ Esse projeto está sob a licença MIT.
 
 ## ✉ Contato
 andersoncrh@gmail.com
----
+
 <br>
+
+---
+
+
+
 Feito com ♥ durante a imersão Explorer-lab da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)

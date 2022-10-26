@@ -56,4 +56,4 @@ andersoncrh@gmail.com
 
 
 
-Feito com ♥ durante a imersão Explorer-lab da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ durante o evento Explorer-lab #01 da Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
